@@ -190,7 +190,7 @@ export default function Portfolio() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2 group cursor-pointer">
               <div className="w-10 h-10 bg-gradient-to-br from-blue-400 to-cyan-500 rounded-lg flex items-center justify-center font-bold text-lg flip" style={{ transformStyle: 'preserve-3d' }}>C</div>
-              <span className="font-bold text-xl group-hover:text-blue-300 transition">Chetan</span>
+              <span className="font-bold text-xl group-hover:text-blue-300 transition">Chetan Kumar</span>
             </div>
             
             {/* Desktop Menu */}
