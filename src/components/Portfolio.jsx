@@ -308,8 +308,8 @@ export default function Portfolio() {
             <div className="flex justify-center gap-6 text-slate-400">
               {[
                 { Icon: Mail, link: 'mailto:suppalachetankumar47@gmail.com' },
-                { Icon: Linkedin, link: '#' },
-                { Icon: Github, link: '#' }
+                { Icon: Linkedin, link: 'https://www.linkedin.com/in/chetankumarsuppala/' },
+                { Icon: Github, link: 'https://github.com/chetankumar-421' }
               ].map(({ Icon, link }, idx) => (
                 <a
                   key={idx}
