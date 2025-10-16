@@ -241,7 +241,7 @@ export default function Portfolio() {
               <div className="w-40 h-40 mx-auto mb-6 relative">
                 {profileImage ? (
                   <img 
-                    src={profileImage}
+                    src="/profile.jpg"
                     alt="Chetan Kumar Suppala"
                     className="w-full h-full rounded-full object-cover border-4 border-blue-400 glow float shadow-lg"
                   />
